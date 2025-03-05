@@ -1,0 +1,8 @@
+__pycache__/
+*.csv
+*.log
+*.sqlite
+*.h5
+.DS_Store
+.ipynb_checkpoints/
+.env
